@@ -1,0 +1,1 @@
+This repository contains a simple example of a web development through Rust.
